@@ -1,0 +1,12 @@
+[
+ {
+   "repository":  "shagbag913/kernel_google_marlin",
+   "target_path": "kernel/google/marlin",
+   "branch":      "pasta-devel"
+ },
+ {
+   "repository":  "DirtyUnicorns/android_vendor_google",
+   "target_path": "vendor/google",
+   "branch":      "p9x"
+ }
+]
